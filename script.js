@@ -724,6 +724,7 @@ if (loveScore > 70) {
     alert(`${myName} and ${theirName}'s love score is ${loveScore}%, It can never work put for both of you`);
 }
 
+let js = 'Javascript'
 
 
 
